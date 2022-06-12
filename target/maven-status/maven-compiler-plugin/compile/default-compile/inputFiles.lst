@@ -1,0 +1,14 @@
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\ext\modelo\ClienteDTO.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\ext\clientes\ClienteCliente.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\servicios\ServicioMspedidos.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\config\KeycloakConfig.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\config\filter\UsernameFilter.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\persistencia\mapper\PedidoBeanMapper.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\api\v1_0\mspedidos\MspedidosController.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\servicios\impl\ServicioMspedidosImpl.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\persistencia\modelo\PedidoBean.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\MspedidosApplication.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\api\v1_0\mspedidos\conversor\PedidoConversor.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\persistencia\PedidoRepository.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\api\v1_0\mspedidos\dto\Pedido.java
+C:\bl-gitlab\ProyectoBL\mspedidos\src\main\java\com\bl\bootcamp\mspedidos\persistencia\dao\PedidoRepositoryImpl.java
